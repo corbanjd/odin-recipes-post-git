@@ -1,0 +1,1 @@
+This is going to showcase a very basic, perhaps even "brutalistic" understanding of HTML 
